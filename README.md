@@ -3,7 +3,7 @@
 🧑‍🎓 Undergraduate student in Informatics at UIN Sunan Gunung Djati Bandung<br/>
 🌱 I’m enthusiastically learning Theology, Philosophy, and IT
 
-![Reski's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReskiF1&show_icons=true&theme=nightowl)
+# Reski's Stats
 
 ![Reski's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReskiF1&langs_count=10)
 
