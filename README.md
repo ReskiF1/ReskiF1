@@ -1,6 +1,7 @@
 ## Hello, Reski Here 👋
 
 🧑‍🎓 Undergraduate student in Informatics at UIN Sunan Gunung Djati Bandung
+
 🌱 I’m enthusiastically learning Theology, Philosophy, and IT
 
 <!--
