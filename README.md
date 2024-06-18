@@ -1,7 +1,7 @@
 ## Hello, Reski Here 👋
 
-- 🧑‍🎓 Undergraduate student in Informatics at UIN Sunan Gunung Djati Bandung
-- 🌱 I’m enthusiastically learning Theology, Philosophy, and IT
+🧑‍🎓 Undergraduate student in Informatics at UIN Sunan Gunung Djati Bandung
+🌱 I’m enthusiastically learning Theology, Philosophy, and IT
 
 <!--
 **ReskiF1/ReskiF1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
