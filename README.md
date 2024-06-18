@@ -7,10 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReskiF1&langs_count=10)
 
-## Tech Stack 📚
-
-![My Skills](https://skillicons.dev/icons?i=html,css,cpp,github,git,java,php,react,mongodb,mysql,androidstudio,dart,flutter,kotlin,gradle,postman,figma)
-
 <!--
 **ReskiF1/ReskiF1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
