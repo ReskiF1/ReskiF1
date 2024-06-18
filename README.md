@@ -9,7 +9,7 @@
 
 ## Tech Stack 📚
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,cpp,github,git,java,php,react,mongodb,mysql,androidstudio,dart,flutter,kotlin,gradle,postman,figma)
 
 <!--
 **ReskiF1/ReskiF1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
