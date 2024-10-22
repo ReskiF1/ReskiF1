@@ -1,6 +1,6 @@
 # Hello, Reski Here 👋
 
-🧑‍🎓 Undergraduate student in Informatics at UIN Sunan Gunung Djati Bandung<br/>
+🧑‍🎓 My academic journey has equipped me with a strong foundation in IT, while my interests in theology and philosophy have enriched my understanding of the broader implications and ethical considerations of technological advancements.<br/>
 🌱 I’m enthusiastically learning Theology, Philosophy, and IT<br/>
 
 ## Stats 📈
