@@ -4,8 +4,7 @@
 
 ## Stats 📈
 <div align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=ReskiF1&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true/>
-  <img src=https://github-readme-streak-stats.herokuapp.com/?user=ReskiF1&theme=nightowl&hide_border=false/><br/>
+  <img src=https://github-readme-stats.vercel.app/api?username=ReskiF1&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true/><br/>
   <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ReskiF1&layout=compact/>
 </div>
 
