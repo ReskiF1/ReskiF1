@@ -6,11 +6,11 @@
 <div align="center">
   <img src=https://github-readme-stats.vercel.app/api?username=ReskiF1&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true/>
   <img src=https://github-readme-streak-stats.herokuapp.com/?user=ReskiF1&theme=nightowl&hide_border=false/><br/>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ReskiF1&layout=compact/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReskiF1&langs_count=8)
 </div>
 
 ---
-![](https://visitcount.itsvg.in/api?id=ReskiF1&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ReskiF1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
